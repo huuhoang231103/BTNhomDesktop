@@ -1,0 +1,166 @@
+C:\Users\Latitude 5300\Desktop\QlDoAn\QlBangDia\bin\Debug\runtimes\linux-arm64\native\libQuestPdfSkia.so
+C:\Users\Latitude 5300\Desktop\QlDoAn\QlBangDia\bin\Debug\runtimes\linux-musl-x64\native\libQuestPdfSkia.so
+C:\Users\Latitude 5300\Desktop\QlDoAn\QlBangDia\bin\Debug\runtimes\linux-x64\native\libQuestPdfSkia.so
+C:\Users\Latitude 5300\Desktop\QlDoAn\QlBangDia\bin\Debug\runtimes\osx-arm64\native\libQuestPdfSkia.dylib
+C:\Users\Latitude 5300\Desktop\QlDoAn\QlBangDia\bin\Debug\runtimes\osx-x64\native\libQuestPdfSkia.dylib
+C:\Users\Latitude 5300\Desktop\QlDoAn\QlBangDia\bin\Debug\runtimes\win-x64\native\QuestPdfSkia.dll
+C:\Users\Latitude 5300\Desktop\QlDoAn\QlBangDia\bin\Debug\runtimes\win-x86\native\QuestPdfSkia.dll
+C:\Users\Latitude 5300\Desktop\QlDoAn\QlBangDia\bin\Debug\HocDesign.exe.config
+C:\Users\Latitude 5300\Desktop\QlDoAn\QlBangDia\bin\Debug\HocDesign.exe
+C:\Users\Latitude 5300\Desktop\QlDoAn\QlBangDia\bin\Debug\HocDesign.pdb
+C:\Users\Latitude 5300\Desktop\QlDoAn\QlBangDia\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\Latitude 5300\Desktop\QlDoAn\QlBangDia\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\Latitude 5300\Desktop\QlDoAn\QlBangDia\bin\Debug\itext.barcodes.dll
+C:\Users\Latitude 5300\Desktop\QlDoAn\QlBangDia\bin\Debug\itext.bouncy-castle-connector.dll
+C:\Users\Latitude 5300\Desktop\QlDoAn\QlBangDia\bin\Debug\itext.commons.dll
+C:\Users\Latitude 5300\Desktop\QlDoAn\QlBangDia\bin\Debug\itext.forms.dll
+C:\Users\Latitude 5300\Desktop\QlDoAn\QlBangDia\bin\Debug\itext.io.dll
+C:\Users\Latitude 5300\Desktop\QlDoAn\QlBangDia\bin\Debug\itext.kernel.dll
+C:\Users\Latitude 5300\Desktop\QlDoAn\QlBangDia\bin\Debug\itext.layout.dll
+C:\Users\Latitude 5300\Desktop\QlDoAn\QlBangDia\bin\Debug\itext.pdfa.dll
+C:\Users\Latitude 5300\Desktop\QlDoAn\QlBangDia\bin\Debug\itext.pdfua.dll
+C:\Users\Latitude 5300\Desktop\QlDoAn\QlBangDia\bin\Debug\itext.sign.dll
+C:\Users\Latitude 5300\Desktop\QlDoAn\QlBangDia\bin\Debug\itext.styledxmlparser.dll
+C:\Users\Latitude 5300\Desktop\QlDoAn\QlBangDia\bin\Debug\itext.svg.dll
+C:\Users\Latitude 5300\Desktop\QlDoAn\QlBangDia\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Latitude 5300\Desktop\QlDoAn\QlBangDia\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Latitude 5300\Desktop\QlDoAn\QlBangDia\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Latitude 5300\Desktop\QlDoAn\QlBangDia\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Latitude 5300\Desktop\QlDoAn\QlBangDia\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\Latitude 5300\Desktop\QlDoAn\QlBangDia\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\Latitude 5300\Desktop\QlDoAn\QlBangDia\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\Latitude 5300\Desktop\QlDoAn\QlBangDia\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Latitude 5300\Desktop\QlDoAn\QlBangDia\bin\Debug\QuestPDF.dll
+C:\Users\Latitude 5300\Desktop\QlDoAn\QlBangDia\bin\Debug\System.Buffers.dll
+C:\Users\Latitude 5300\Desktop\QlDoAn\QlBangDia\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Latitude 5300\Desktop\QlDoAn\QlBangDia\bin\Debug\System.Memory.dll
+C:\Users\Latitude 5300\Desktop\QlDoAn\QlBangDia\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Latitude 5300\Desktop\QlDoAn\QlBangDia\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Latitude 5300\Desktop\QlDoAn\QlBangDia\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Latitude 5300\Desktop\QlDoAn\QlBangDia\bin\Debug\System.ValueTuple.dll
+C:\Users\Latitude 5300\Desktop\QlDoAn\QlBangDia\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\Latitude 5300\Desktop\QlDoAn\QlBangDia\bin\Debug\itext.barcodes.xml
+C:\Users\Latitude 5300\Desktop\QlDoAn\QlBangDia\bin\Debug\itext.bouncy-castle-connector.xml
+C:\Users\Latitude 5300\Desktop\QlDoAn\QlBangDia\bin\Debug\itext.commons.xml
+C:\Users\Latitude 5300\Desktop\QlDoAn\QlBangDia\bin\Debug\itext.forms.xml
+C:\Users\Latitude 5300\Desktop\QlDoAn\QlBangDia\bin\Debug\itext.io.xml
+C:\Users\Latitude 5300\Desktop\QlDoAn\QlBangDia\bin\Debug\itext.kernel.xml
+C:\Users\Latitude 5300\Desktop\QlDoAn\QlBangDia\bin\Debug\itext.layout.xml
+C:\Users\Latitude 5300\Desktop\QlDoAn\QlBangDia\bin\Debug\itext.pdfa.xml
+C:\Users\Latitude 5300\Desktop\QlDoAn\QlBangDia\bin\Debug\itext.pdfua.xml
+C:\Users\Latitude 5300\Desktop\QlDoAn\QlBangDia\bin\Debug\itext.sign.xml
+C:\Users\Latitude 5300\Desktop\QlDoAn\QlBangDia\bin\Debug\itext.styledxmlparser.xml
+C:\Users\Latitude 5300\Desktop\QlDoAn\QlBangDia\bin\Debug\itext.svg.xml
+C:\Users\Latitude 5300\Desktop\QlDoAn\QlBangDia\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Latitude 5300\Desktop\QlDoAn\QlBangDia\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\Latitude 5300\Desktop\QlDoAn\QlBangDia\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\Latitude 5300\Desktop\QlDoAn\QlBangDia\bin\Debug\Microsoft.Extensions.Logging.xml
+C:\Users\Latitude 5300\Desktop\QlDoAn\QlBangDia\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\Latitude 5300\Desktop\QlDoAn\QlBangDia\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Users\Latitude 5300\Desktop\QlDoAn\QlBangDia\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\Latitude 5300\Desktop\QlDoAn\QlBangDia\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Latitude 5300\Desktop\QlDoAn\QlBangDia\bin\Debug\QuestPDF.xml
+C:\Users\Latitude 5300\Desktop\QlDoAn\QlBangDia\bin\Debug\System.Buffers.xml
+C:\Users\Latitude 5300\Desktop\QlDoAn\QlBangDia\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Latitude 5300\Desktop\QlDoAn\QlBangDia\bin\Debug\System.Memory.xml
+C:\Users\Latitude 5300\Desktop\QlDoAn\QlBangDia\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Latitude 5300\Desktop\QlDoAn\QlBangDia\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Latitude 5300\Desktop\QlDoAn\QlBangDia\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Latitude 5300\Desktop\QlDoAn\QlBangDia\bin\Debug\System.ValueTuple.xml
+C:\Users\Latitude 5300\Desktop\QlDoAn\QlBangDia\obj\Debug\QlBangDia.csproj.AssemblyReference.cache
+C:\Users\Latitude 5300\Desktop\QlDoAn\QlBangDia\obj\Debug\QlBangDia.FrmLogin.resources
+C:\Users\Latitude 5300\Desktop\QlDoAn\QlBangDia\obj\Debug\QlBangDia.FrmMain.resources
+C:\Users\Latitude 5300\Desktop\QlDoAn\QlBangDia\obj\Debug\QlDoAn.Properties.Resources.resources
+C:\Users\Latitude 5300\Desktop\QlDoAn\QlBangDia\obj\Debug\QlBangDia.View.FrmPhieuMuon.resources
+C:\Users\Latitude 5300\Desktop\QlDoAn\QlBangDia\obj\Debug\QlBangDia.View.FrmPhieuTra.resources
+C:\Users\Latitude 5300\Desktop\QlDoAn\QlBangDia\obj\Debug\QlBangDia.View.FrmQlNguoiDung.resources
+C:\Users\Latitude 5300\Desktop\QlDoAn\QlBangDia\obj\Debug\QlBangDia.View.FrmQLBangDia.resources
+C:\Users\Latitude 5300\Desktop\QlDoAn\QlBangDia\obj\Debug\QlBangDia.View.FrmThongKe.resources
+C:\Users\Latitude 5300\Desktop\QlDoAn\QlBangDia\obj\Debug\QlBangDia.csproj.GenerateResource.cache
+C:\Users\Latitude 5300\Desktop\QlDoAn\QlBangDia\obj\Debug\QlBangDia.csproj.CoreCompileInputs.cache
+C:\Users\Latitude 5300\Desktop\QlDoAn\QlBangDia\obj\Debug\QlBangDia.csproj.Up2Date
+C:\Users\Latitude 5300\Desktop\QlDoAn\QlBangDia\obj\Debug\HocDesign.exe
+C:\Users\Latitude 5300\Desktop\QlDoAn\QlBangDia\obj\Debug\HocDesign.pdb
+D:\QuanLyBangDia\Final\QlBangDia\bin\Debug\runtimes\linux-arm64\native\libQuestPdfSkia.so
+D:\QuanLyBangDia\Final\QlBangDia\bin\Debug\runtimes\linux-musl-x64\native\libQuestPdfSkia.so
+D:\QuanLyBangDia\Final\QlBangDia\bin\Debug\runtimes\linux-x64\native\libQuestPdfSkia.so
+D:\QuanLyBangDia\Final\QlBangDia\bin\Debug\runtimes\osx-arm64\native\libQuestPdfSkia.dylib
+D:\QuanLyBangDia\Final\QlBangDia\bin\Debug\runtimes\osx-x64\native\libQuestPdfSkia.dylib
+D:\QuanLyBangDia\Final\QlBangDia\bin\Debug\runtimes\win-x64\native\QuestPdfSkia.dll
+D:\QuanLyBangDia\Final\QlBangDia\bin\Debug\runtimes\win-x86\native\QuestPdfSkia.dll
+D:\QuanLyBangDia\Final\QlBangDia\bin\Debug\HocDesign.exe.config
+D:\QuanLyBangDia\Final\QlBangDia\bin\Debug\HocDesign.exe
+D:\QuanLyBangDia\Final\QlBangDia\bin\Debug\HocDesign.pdb
+D:\QuanLyBangDia\Final\QlBangDia\bin\Debug\BouncyCastle.Cryptography.dll
+D:\QuanLyBangDia\Final\QlBangDia\bin\Debug\FontAwesome.Sharp.dll
+D:\QuanLyBangDia\Final\QlBangDia\bin\Debug\itext.barcodes.dll
+D:\QuanLyBangDia\Final\QlBangDia\bin\Debug\itext.bouncy-castle-connector.dll
+D:\QuanLyBangDia\Final\QlBangDia\bin\Debug\itext.commons.dll
+D:\QuanLyBangDia\Final\QlBangDia\bin\Debug\itext.forms.dll
+D:\QuanLyBangDia\Final\QlBangDia\bin\Debug\itext.io.dll
+D:\QuanLyBangDia\Final\QlBangDia\bin\Debug\itext.kernel.dll
+D:\QuanLyBangDia\Final\QlBangDia\bin\Debug\itext.layout.dll
+D:\QuanLyBangDia\Final\QlBangDia\bin\Debug\itext.pdfa.dll
+D:\QuanLyBangDia\Final\QlBangDia\bin\Debug\itext.pdfua.dll
+D:\QuanLyBangDia\Final\QlBangDia\bin\Debug\itext.sign.dll
+D:\QuanLyBangDia\Final\QlBangDia\bin\Debug\itext.styledxmlparser.dll
+D:\QuanLyBangDia\Final\QlBangDia\bin\Debug\itext.svg.dll
+D:\QuanLyBangDia\Final\QlBangDia\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\QuanLyBangDia\Final\QlBangDia\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\QuanLyBangDia\Final\QlBangDia\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+D:\QuanLyBangDia\Final\QlBangDia\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+D:\QuanLyBangDia\Final\QlBangDia\bin\Debug\Microsoft.Extensions.Logging.dll
+D:\QuanLyBangDia\Final\QlBangDia\bin\Debug\Microsoft.Extensions.Options.dll
+D:\QuanLyBangDia\Final\QlBangDia\bin\Debug\Microsoft.Extensions.Primitives.dll
+D:\QuanLyBangDia\Final\QlBangDia\bin\Debug\Newtonsoft.Json.dll
+D:\QuanLyBangDia\Final\QlBangDia\bin\Debug\QuestPDF.dll
+D:\QuanLyBangDia\Final\QlBangDia\bin\Debug\System.Buffers.dll
+D:\QuanLyBangDia\Final\QlBangDia\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\QuanLyBangDia\Final\QlBangDia\bin\Debug\System.Memory.dll
+D:\QuanLyBangDia\Final\QlBangDia\bin\Debug\System.Numerics.Vectors.dll
+D:\QuanLyBangDia\Final\QlBangDia\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\QuanLyBangDia\Final\QlBangDia\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\QuanLyBangDia\Final\QlBangDia\bin\Debug\System.ValueTuple.dll
+D:\QuanLyBangDia\Final\QlBangDia\bin\Debug\BouncyCastle.Cryptography.xml
+D:\QuanLyBangDia\Final\QlBangDia\bin\Debug\itext.barcodes.xml
+D:\QuanLyBangDia\Final\QlBangDia\bin\Debug\itext.bouncy-castle-connector.xml
+D:\QuanLyBangDia\Final\QlBangDia\bin\Debug\itext.commons.xml
+D:\QuanLyBangDia\Final\QlBangDia\bin\Debug\itext.forms.xml
+D:\QuanLyBangDia\Final\QlBangDia\bin\Debug\itext.io.xml
+D:\QuanLyBangDia\Final\QlBangDia\bin\Debug\itext.kernel.xml
+D:\QuanLyBangDia\Final\QlBangDia\bin\Debug\itext.layout.xml
+D:\QuanLyBangDia\Final\QlBangDia\bin\Debug\itext.pdfa.xml
+D:\QuanLyBangDia\Final\QlBangDia\bin\Debug\itext.pdfua.xml
+D:\QuanLyBangDia\Final\QlBangDia\bin\Debug\itext.sign.xml
+D:\QuanLyBangDia\Final\QlBangDia\bin\Debug\itext.styledxmlparser.xml
+D:\QuanLyBangDia\Final\QlBangDia\bin\Debug\itext.svg.xml
+D:\QuanLyBangDia\Final\QlBangDia\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\QuanLyBangDia\Final\QlBangDia\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+D:\QuanLyBangDia\Final\QlBangDia\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+D:\QuanLyBangDia\Final\QlBangDia\bin\Debug\Microsoft.Extensions.Logging.xml
+D:\QuanLyBangDia\Final\QlBangDia\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+D:\QuanLyBangDia\Final\QlBangDia\bin\Debug\Microsoft.Extensions.Options.xml
+D:\QuanLyBangDia\Final\QlBangDia\bin\Debug\Microsoft.Extensions.Primitives.xml
+D:\QuanLyBangDia\Final\QlBangDia\bin\Debug\Newtonsoft.Json.xml
+D:\QuanLyBangDia\Final\QlBangDia\bin\Debug\QuestPDF.xml
+D:\QuanLyBangDia\Final\QlBangDia\bin\Debug\System.Buffers.xml
+D:\QuanLyBangDia\Final\QlBangDia\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\QuanLyBangDia\Final\QlBangDia\bin\Debug\System.Memory.xml
+D:\QuanLyBangDia\Final\QlBangDia\bin\Debug\System.Numerics.Vectors.xml
+D:\QuanLyBangDia\Final\QlBangDia\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\QuanLyBangDia\Final\QlBangDia\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\QuanLyBangDia\Final\QlBangDia\bin\Debug\System.ValueTuple.xml
+D:\QuanLyBangDia\Final\QlBangDia\obj\Debug\QlBangDia.csproj.AssemblyReference.cache
+D:\QuanLyBangDia\Final\QlBangDia\obj\Debug\QlBangDia.FrmLogin.resources
+D:\QuanLyBangDia\Final\QlBangDia\obj\Debug\QlBangDia.FrmMain.resources
+D:\QuanLyBangDia\Final\QlBangDia\obj\Debug\QlDoAn.Properties.Resources.resources
+D:\QuanLyBangDia\Final\QlBangDia\obj\Debug\QlBangDia.View.FrmPhieuMuon.resources
+D:\QuanLyBangDia\Final\QlBangDia\obj\Debug\QlBangDia.View.FrmPhieuTra.resources
+D:\QuanLyBangDia\Final\QlBangDia\obj\Debug\QlBangDia.View.FrmQlNguoiDung.resources
+D:\QuanLyBangDia\Final\QlBangDia\obj\Debug\QlBangDia.View.FrmQLBangDia.resources
+D:\QuanLyBangDia\Final\QlBangDia\obj\Debug\QlBangDia.View.FrmThongKe.resources
+D:\QuanLyBangDia\Final\QlBangDia\obj\Debug\QlBangDia.csproj.GenerateResource.cache
+D:\QuanLyBangDia\Final\QlBangDia\obj\Debug\QlBangDia.csproj.CoreCompileInputs.cache
+D:\QuanLyBangDia\Final\QlBangDia\obj\Debug\QlBangDia.csproj.Up2Date
+D:\QuanLyBangDia\Final\QlBangDia\obj\Debug\HocDesign.exe
+D:\QuanLyBangDia\Final\QlBangDia\obj\Debug\HocDesign.pdb
